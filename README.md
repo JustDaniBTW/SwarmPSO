@@ -1,1 +1,1 @@
-Database is located in this branch
+SQL query in this branch
